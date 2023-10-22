@@ -57,7 +57,7 @@ Before you begin, ensure that you have the following prerequisites set up for th
 
 <h1 align="center">Lets Begin </h1>
 
-<img align="right" src="https://github.com/shankar439/Images/assets/70714976/2396aba8-823a-4846-b11b-a487c5f2b48e" height="150" alt="Kubernetes"> 
+<img align="right" src="https://github.com/shankar439/Images/assets/70714976/2396aba8-823a-4846-b11b-a487c5f2b48e" height="140" alt="Kubernetes"> 
 <img align="right" src="https://github.com/shankar439/Images/assets/70714976/e5fa9512-1398-4f26-9b0d-87133f415133" height="140" alt="Kubernetes"> 
 
 
